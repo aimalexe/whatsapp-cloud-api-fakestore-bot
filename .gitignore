@@ -1,0 +1,4 @@
+.env.js
+invoice_*
+/node_modules
+*.pdf
